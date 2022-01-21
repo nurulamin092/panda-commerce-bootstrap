@@ -4,6 +4,12 @@
 .categories img{
     width: 100px;
 }
+#ct-bg-color{
+    background-color: orchid;
+}
+#ct-bg-shoes-color{
+     background-color: #0000ff;
+}
 .panda-btn-buy-now{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: #fff; 
@@ -11,3 +17,4 @@
     padding: 9px 25px;
     border:none;
 }
+
